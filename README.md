@@ -1,3 +1,3 @@
-# postgres
+# zedstore
 
-* Repository to collaborate on postgres projects.
+* Hello Analytics and OLTP
